@@ -1,0 +1,44 @@
+<mat-card> 
+  <mat-card-title> Novo cadastro </mat-card-title>
+  <form [formGroup]="form"> 
+    <mat-form-field> 
+      <input matInput placeholder="Nome" formControlName="name">
+      <mat-error *ngIf="applyCssError('name') ">
+        Campo inválido!
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field> 
+      <input matInput type="email" placeholder="Email" formControlName="email">
+      <mat-error *ngIf="applyCssError('email') ">
+        Campo inválido!
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill"> 
+      <mat-label>Selecione o genero</mat-label>
+      <mat-select formControlName="genero">
+        <mat-option value="masculino">Masculino</mat-option>
+        <mat-option value="feminino">Feminino</mat-option>
+      </mat-select>
+      <mat-error *ngIf="applyCssError('genero') ">
+        Campo inválido!
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field> 
+      <input matInput type="date" placeholder="Data de nascimento" formControlName="dataDeNascimento">
+      <mat-error *ngIf="applyCssError('dataDeNascimento') ">
+        Campo inválido!
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field> 
+      <input matInput type="password" placeholder="Senha" formControlName="senha">  
+    </mat-form-field>
+  </form>
+</mat-card>
+
+<button mat-raised-button (click)="createUser()" color="primary"> 
+  Salvar
+ </button>
+
+ <button mat-raised-button (click)="cancel()"> 
+    Cancelar
+   </button>

@@ -1,0 +1,28 @@
+<mat-card> 
+    <mat-card-title> Excluir cadastro </mat-card-title>
+    <form> 
+      <mat-form-field> 
+        <input matInput placeholder="Nome" [(ngModel)] ="user.name" name="name" disabled>  
+      </mat-form-field>
+      <mat-form-field> 
+        <input matInput placeholder="Email" [(ngModel)] ="user.email" name="email" disabled>  
+      </mat-form-field>
+      <mat-form-field> 
+        <input matInput placeholder="Genero" [(ngModel)] ="user.genero" name="genero" disabled>  
+      </mat-form-field>
+      <mat-form-field> 
+        <input matInput placeholder="Data de nascimento" [(ngModel)] ="user.dataDeNascimento" name="idade" disabled>  
+      </mat-form-field>
+      <mat-form-field> 
+        <input matInput placeholder="Senha" [(ngModel)] ="user.senha" name="senha">  
+      </mat-form-field>
+    </form>
+  </mat-card>
+  
+  <button mat-raised-button (click)="deleteUser()" color="{{user.ativo? 'warn' : 'primary'}}"> 
+    {{user.ativo? 'Desativar' : 'Reativar'}}
+   </button>
+  
+   <button mat-raised-button (click)="cancel()"> 
+      Cancelar
+     </button>
