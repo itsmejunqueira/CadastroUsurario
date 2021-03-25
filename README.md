@@ -1,33 +1,33 @@
 # CadastroUsurario
-Sistema para cadastro de alunos/usuarios (tema Hogwarts) 
+Sistema para cadastro de alunos/usuarios (tema Hogwarts)</br> 
 
-Cadastro de Usuário
-O cadastro de usuário contem uma tela com os seguintes campos:
---> Nome
---> Data de Nascimento
---> E-mail
---> Senha
---> gênero 
---> Salvar (botão)
+Cadastro de Usuário</br> 
+O cadastro de usuário contem uma tela com os seguintes campos:</br> 
+--> Nome</br> 
+--> Data de Nascimento</br> 
+--> E-mail</br> 
+--> Senha</br> 
+--> gênero </br> 
+--> Salvar (botão)</br> 
 
-Relatório de Usuários Cadastrados
-Um relatório de usuários cadastros com as seguintes informações:
+Relatório de Usuários Cadastrados</br> 
+Um relatório de usuários cadastros com as seguintes informações:</br> 
 
---> Nome
---> Data de Nascimento
---> E-mail
---> Genero 
---> vizualização de Ativo ou não 
---> Botão para Ativar/Desativar
---> Filtros
+--> Nome</br> 
+--> Data de Nascimento</br> 
+--> E-mail</br> 
+--> Genero </br> 
+--> vizualização de Ativo ou não </br> 
+--> Botão para Ativar/Desativar</br> 
+--> Filtros</br> 
 
-Tecnologias utilizadas:
---> Angular
---> Angular Material 
---> Node 
---> JasonServer 
+Tecnologias utilizadas:</br> 
+--> Angular</br> 
+--> Angular Material </br> 
+--> Node </br> 
+--> JasonServer </br> 
 
 
-Rodar npm install na pasta backend e depois na frontend, após ambas instaladas, npm start para startar a aplicação. 
+Rodar npm install na pasta backend e depois na frontend, após ambas instaladas, npm start para startar a aplicação. </br> 
 
 
