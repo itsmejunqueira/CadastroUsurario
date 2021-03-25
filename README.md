@@ -3,7 +3,6 @@ Sistema para cadastro de alunos/usuarios (tema Hogwarts)
 
 Cadastro de Usuário
 O cadastro de usuário contem uma tela com os seguintes campos:
-
 --> Nome
 --> Data de Nascimento
 --> E-mail
