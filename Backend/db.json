@@ -1,0 +1,85 @@
+{
+  "Users": [
+    {
+      "id": 8,
+      "name": "Cleiton Tilibra",
+      "email": "cleitontitilibra@gmail.com",
+      "genero": "masculino",
+      "dataDeNascimento": "1955-05-11",
+      "senha": "1234",
+      "ativo": true
+    },
+    {
+      "id": 7,
+      "name": "Letícia Cristiane Junqueira",
+      "email": "leticia_junqueira10@hotmail.com",
+      "genero": "feminino",
+      "dataDeNascimento": "1994-05-11",
+      "senha": "1234",
+      "ativo": true
+    },
+    {
+      "id": 6,
+      "name": " gustavo",
+      "email": "guga02@gmail.com",
+      "genero": "masculino",
+      "dataDeNascimento": "1994-05-11",
+      "senha": "1234",
+      "ativo": false
+    },
+    {
+      "id": 12,
+      "name": "henrique",
+      "email": "henrique@santos.com.br",
+      "genero": "masculino",
+      "dataDeNascimento": "1990-12-02",
+      "senha": "hasjdhfkajshdfkjhals",
+      "ativo": false
+    },
+    {
+      "name": "Godofredo",
+      "email": "Godofredohenriques@hotmail.com",
+      "genero": "masculino",
+      "dataDeNascimento": "1997-06-05",
+      "senha": "dsdsdhufhdf",
+      "id": 16,
+      "ativo": true
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter ",
+      "email": "harrypotter@gmail.com",
+      "genero": "masculino",
+      "dataDeNascimento": "1980-07-31",
+      "senha": "zY@!P@XS8WxZU88",
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "name": "Ronald Weasley ",
+      "email": "Ronald_Weasley@hotmail.com",
+      "genero": "masculino",
+      "dataDeNascimento": "1980-03-01",
+      "senha": "zY@!P@XS8WxZU88",
+      "ativo": true
+    },
+    {
+      "name": "Hermione Granger",
+      "email": "Hermione.Granger@hotmail.com",
+      "genero": "feminino",
+      "dataDeNascimento": "1979-09-19",
+      "senha": "zY@!P@XS8WxZU88",
+      "id": 1,
+      "ativo": true
+    },
+    {
+      "name": "Luna Lovegood",
+      "email": "Luna.Lovegood@amaior.com",
+      "genero": "feminino",
+      "dataDeNascimento": "1981-03-13",
+      "senha": "zY@!P@XS8WxZU88",
+      "id": 4,
+      "ativo": true
+    }
+  ]
+}
