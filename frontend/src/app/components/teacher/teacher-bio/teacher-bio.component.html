@@ -1,0 +1,24 @@
+  <mat-card class="example-card">
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title> {{teacher.name}} </mat-card-title>
+      <mat-card-subtitle> {{teacher.materia}} </mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src={{teacher.avatar}} alt="Photo do arquivo pessoal">
+    <mat-card-content>
+      <p>
+        {{teacher.bio}}
+      </p>
+    </mat-card-content>
+  </mat-card>
+
+
+
+
+  <button mat-raised-button (click)="updateTeacher()" color="primary"> 
+    Editar
+   </button>
+  
+   <button mat-raised-button (click)="cancel()"> 
+      Cancelar
+     </button>

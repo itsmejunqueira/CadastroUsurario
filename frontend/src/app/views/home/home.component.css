@@ -8,3 +8,9 @@
     font-size: 1.1rem;
    color: rgb(166, 168, 23);
 }
+
+.Fraternidade {
+    margin: 5px;
+    max-width: 220px; 
+    float: left;
+  }

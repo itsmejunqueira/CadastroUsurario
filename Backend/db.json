@@ -70,7 +70,7 @@
       "dataDeNascimento": "1979-09-19",
       "senha": "zY@!P@XS8WxZU88",
       "id": 1,
-      "ativo": true
+      "ativo": false
     },
     {
       "name": "Luna Lovegood",
@@ -80,6 +80,88 @@
       "senha": "zY@!P@XS8WxZU88",
       "id": 4,
       "ativo": true
+    }
+  ],
+  "Teachers": [
+    {
+      "name": "Albus Dumbledore",
+      "materia": "Atual diretor de Hogwarts e professor de Transfiguração",
+      "id": 1,
+      "avatar": "https://pm1.narvii.com/6291/4bb4937b44867819ddff5bbaeb44b238ca74fb16_hq.jpg",
+      "ativo": true,
+      "bio": "É o bruxo mais poderoso de seu tempo, mesmo mestiço possui uma mente brilhante e poderes lendários! Dumbledore se tornou o único bruxo em que - aquele que nao deve ser nomeado - teme! Ele é o dono e o mestre da Varinha das Varinhas desde 1945. "
+    },
+    {
+      "name": "Rúbeo Hagrid",
+      "materia": "Professor de Trato das Criaturas Mágicas",
+      "id": 2,
+      "avatar": "https://cdn.meadd.net/photos/full/52922998.jpg",
+      "ativo": true,
+      "bio": "Professor Rúbeo Hagrid,nascido em 6 de dezembro de 1928, é um bruxo inglês meio-gigante. Hagrid frequentou a Escola de Magia e Bruxaria de Hogwarts em 1940 e foi classificado para a Casa Grifinória. Hagrid foi treinado como guarda-caça de Hogwarts e tem a permissão para viver nos terrenos da escola a pedido de Alvo Dumbledore. Em 1993, ele assumiu o cargo de professor de Trato das Criaturas Mágicas."
+    },
+    {
+      "name": "Sibila Trelawney",
+      "materia": "Professora de Adivinhação",
+      "id": 3,
+      "avatar": "http://pm1.narvii.com/6517/cbe927b2af5fbff60c1cc7770a36a93bb5db1ba1_00.jpg",
+      "ativo": false,
+      "bio": "Uma bruxa mestiça vidente e professora. Foi Sibila quem fez a profecia sobre Lorde Voldemort, durante sua entrevista de emprego com Alvo Dumbledore. No final do ano letivo de 1993-1994, ela também previu a fuga de Pedro Pettigrew e o retorno do Lorde das Trevas. No ano letivo de 1995-1996, foi dispensada e banida injustamente do Castelo de Hogwarts, sendo substituida pelo professor Centauro Firenze. No ano letivo de 1997-1998, Sibila participou da Batalha de Hogwarts, jogando bolas de cristal nas cabeças de vários Comensais da Morte, e posteriormente, cuidando de mortos e feridos junto de Padma Patil. A professora Trelawney continuou a lecionar até a década de 2010, hoje continua apenas com sua tradição de prever a morte de seus alunos."
+    },
+    {
+      "name": "Severo Snape",
+      "materia": "Professor de Defesa Contra as Artes das Trevas",
+      "id": 5,
+      "avatar": "https://i.pinimg.com/originals/4a/c1/70/4ac170809ab7e74c403da0650c7aaa43.jpg",
+      "ativo": false,
+      "bio": " O Professor Severo Snape (9 de janeiro de 1960 – 2 de maio de 1998) foi um bruxo mestiço. Ele frequentou Hogwarts como aluno de 1971 a 1978. Foi Mestre de Poções em 1981–1996, o professor de Defesa Contra as Artes das Trevas (Ano letivo de 1996 a 1997), e Diretor (Ano letivo de 1997-1998) da Escola de Magia e Bruxaria de Hogwarts."
+    },
+    {
+      "name": "Horácio Slughorn",
+      "materia": "Mestre das Poções",
+      "id": 6,
+      "avatar": "http://pm1.narvii.com/6280/826ddb8599a8f883596e0adc36bdcb422d8da83f_00.jpg",
+      "ativo": false,
+      "bio": "Professor Horácio Eugênio Flaccus Slughorn (nascido em 28 de abril entre 1882 a 1913 (?) é um bruxo sangue puro que frequentou a Escola de Magia e Bruxaria de Hogwarts como membro da Casa Sonserina. Retornou à escola em 1931 como Mestre das Poções e Diretor de Casa até sua aposentadoria em 1981."
+    },
+    {
+      "name": "Pomona Sprout",
+      "materia": "Ex diretora da Casa Lufa-Lufa e Chefe do Departamento de Herbologia",
+      "id": 7,
+      "avatar": "http://pm1.narvii.com/6641/b142910a9ab47ae5de587e707bca1b5fa22e4665_00.jpg",
+      "ativo": true,
+      "bio": "Professora Pomona Sprout, nascida em 15 de maio, foi uma bruxa que trabalhou como Diretora da Casa Lufa-Lufa e Chefe do Departamento de Herbologia na Escola de Magia e Bruxaria de Hogwarts. Ela frequentou a escola em sua juventude e foi classificada para a Casa Lufa-Lufa, destacando-se em Herbologia. Algum tempo após sua formatura, Sprout voltou a Hogwarts para atuar como professora."
+    },
+    {
+      "name": "Rolanda Hooch",
+      "materia": "Professora de Quadribol",
+      "id": 8,
+      "avatar": "https://1.bp.blogspot.com/-CbTIkwF3a50/VvBDJsM-rZI/AAAAAAAAAhc/EmV0xoRpZRAzT1aVXETuaWptzgJR7HTtQ/s1600/WB_F1_MadamHooch_CloseUp_00356411.jpg",
+      "ativo": false,
+      "bio": "Uma bruxa especializada em Quadribol que trabalhou na Escola de Magia e Bruxaria de Hogwarts, atua como instrutora de voo, juíza e técnica. Estudou em Hogwarts e foi selecionada para a Lufa-Lufa onde se tornou um membro da equipa de quadribol. Ela aprendeu a voar em sua própria vassoura durante ou antes da Primeira Guerra Mundial (1914-1918) e foi contratada para lecionar Hogwarts após a sua graduação. Ela sobreviveu à Batalha de Hogwarts e ainda lecionava no ano de 2020, com pelo menos 102 anos.."
+    },
+    {
+      "name": "Remo Lupin",
+      "materia": "Professor de Defesa Contra as Artes das Trevas",
+      "id": 9,
+      "avatar": "https://3.bp.blogspot.com/-o-GEuw2Pwx4/UhOdmw8_sDI/AAAAAAAAFqc/s1cKIaU1UEQ/s1600/%255BCuriosidade%255D+Remus+Lupin+e+sua+hist%25C3%25B3ria+%25231+%25281%2529.png",
+      "ativo": false,
+      "bio": "O Professor Remo Lupin (10 de março de 1960 – 2 de maio de 1998), também conhecido como Aluado, foi um bruxo Mestiço que teve licantropia durante sua infância. Ele frequentou a Escola de Magia e Bruxaria de Hogwarts e foi selecionado para a Grifinória. Remo foi um bom aluno e um transgressor ao mesmo tempo. Junto de Tiago, Sirius e Pedro usaram seu conhecimento da escola e arredores para escrever o Mapa do Maroto e o assinaram com seus apelidos. Remo foi também um monitor em Hogwarts. E ensinou na Escola como Professor de Defesa Contra as Artes das Trevas durante o ano letivo de 1993 a 1994. "
+    },
+    {
+      "name": "Minerva McGonagall",
+      "materia": "Diretora da Casa Grifinória e professora de Transfiguração",
+      "id": 10,
+      "avatar": "https://miro.medium.com/max/1200/1*JDX1cpjPHLOB1cBOIISFnw.jpeg",
+      "ativo": true,
+      "bio": "É uma bruxa escocesa mestiça. Quando frequentava a escola foi classificada para a Grifinória — entretanto, o Chapéu Seletor levou cerca de cinco minutos e meio para se decidir entre Grifinória e Corvinal, tornando-a uma Hatstall . Durante seu sétimo ano, ela foi nomeada monitora-chefe. Após concluir sua educação, Minerva trabalhou por dois anos no Ministério da Magia e posteriormente retornou a Hogwarts, onde se tornou diretora da Casa Grifinória e professora de Transfiguração. "
+    },
+    {
+      "id": 11,
+      "name": "Dolores Umbridge",
+      "ativo": true,
+      "materia": "Defesa Contra as Artes das Trevas",
+      "bio": "Em 1995, Umbridge foi colocada em Hogwarts como a nova professora, por ordem do Ministério da Magia, sob os termos do Decreto Educacional Número Vinte e Dois, sem o consentimento de Alvo Dumbledore. Ela foi fornecida pelo Ministério mais como uma espiã e não era boa com adolescentes. Ela é cruel, insensível e arrogante!  Ficou conhecida pela crueldade a qual submeteu os alunos e por ter sido chefe da Comissão de Registro dos Nascidos-Trouxas de 1997 a 1998 durante o governo de Pio Thicknesse, onde foi responsável pela captura e prisão de vários nascidos-trouxas em Azkaban",
+      "avatar": "https://br.web.img2.acsta.net/newsv7/19/11/22/14/44/4896710.jpg"
     }
   ]
 }

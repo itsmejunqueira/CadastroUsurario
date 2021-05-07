@@ -1,3 +1,4 @@
+import { TeacherBioComponent } from './components/teacher/teacher-bio/teacher-bio.component';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { LOCALE_ID, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -37,6 +38,11 @@ import { UserDeleteComponent } from './components/user/user-delete/user-delete.c
 import { MatOption, MatOptionModule } from '@angular/material/core';
 import { MatSelect, MatSelectModule } from '@angular/material/select';
 import { MatCheckboxModule }from '@angular/material/checkbox';
+import { TeacherCrudComponent } from './views/teacher-crud/teacher-crud.component';
+import { TeacherDeleteComponent } from './components/teacher/teacher-delete/teacher-delete.component';
+import { TeacherUpdateComponent } from './components/teacher/teacher-update/teacher-update.component';
+import { TeacherReadComponent } from './components/teacher/teacher-read/teacher-read.component';
+import { TeacherCreateComponent } from './components/teacher/teacher-create/teacher-create.component';
 
  registerLocaleData(localePt);
 
@@ -52,7 +58,13 @@ import { MatCheckboxModule }from '@angular/material/checkbox';
     UserCreateComponent,
     UserReadComponent,
     UserUpdateComponent,
-    UserDeleteComponent
+    UserDeleteComponent,
+    TeacherCreateComponent,
+    TeacherReadComponent,
+    TeacherUpdateComponent,
+    TeacherDeleteComponent,
+    TeacherCrudComponent,
+    TeacherBioComponent
   ],
   imports: [
     BrowserModule,
@@ -74,7 +86,8 @@ import { MatCheckboxModule }from '@angular/material/checkbox';
     MatSortModule,
     MatOptionModule,
     MatSelectModule,
-    MatCheckboxModule 
+    MatCheckboxModule,
+    MatCardModule
   ],
   providers: [{
     provide: LOCALE_ID,
