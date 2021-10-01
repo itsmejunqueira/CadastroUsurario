@@ -1,18 +1,21 @@
 .header {
+    width: auto;
+    height: max-content;
     display: flex;
     align-items: center;
-    background-color: black;
+    background-color: rgb(241, 239, 236);
 }
 
 .header a {
     display: flex;
-    color: rgb(166, 168, 23);
+    color: rgb(209, 180, 16);
+    margin-right: 35px;
     align-items: center;
     text-decoration: none;
 }
 
 .header .logo {
-    max-height: 65px;
+    max-height: 100px;
 }
 
 .header .title-group {

@@ -1,11 +1,14 @@
 
 .sidenav{
-    background-color: rgb(166, 168, 23);
-    width: 155px;
+    background-color: rgb(241, 239, 236);
+    width: auto;
+    position: fixed;
+    top: 100px !important;
+    bottom: auto;
 }
 
 .sidenav a{
-    color: rgb(247, 244, 244);
+    color: rgb(209, 180, 16);
 }
 
 .sidenav i{
