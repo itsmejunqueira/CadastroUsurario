@@ -1,14 +1,14 @@
-# CadastroUsurario
-Sistema para cadastro de alunos/usuarios (tema Hogwarts)</br> 
+# Cadastro Usuário
+Sistema para cadastro de alunos/usuários (tema Hogwarts)</br> 
 
 Cadastro de Usuário</br> 
-O cadastro de usuário contem uma tela com os seguintes campos:</br> 
+O cadastro contém uma tela com os seguintes campos:</br> 
 --> Nome</br> 
 --> Data de Nascimento</br> 
 --> E-mail</br> 
 --> Senha</br> 
 --> gênero </br> 
---> Salvar (botão)</br> 
+--> Salvar </br> 
 
 Relatório de Usuários Cadastrados</br> 
 Um relatório de usuários cadastros com as seguintes informações:</br> 
