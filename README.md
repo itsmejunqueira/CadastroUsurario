@@ -1,28 +1,16 @@
 # Cadastro Usuário
 Sistema para cadastro de alunos/usuários (tema Hogwarts)</br> 
 
-Cadastro de Usuário</br> 
-O cadastro contém uma tela com os seguintes campos:</br> 
---> Nome</br> 
---> Data de Nascimento</br> 
---> E-mail</br> 
---> Senha</br> 
---> gênero </br> 
---> Salvar </br> 
 
+O cadastro de alunos contém uma tela com os seguintes campos:</br> 
 ![novoaluno](https://github.com/itsmejunqueira/CadastroUsurario/blob/main/cadastrodealunos.JPG)
 
-Relatório de Usuários Cadastrados</br> 
-Um relatório de usuários cadastros com as seguintes informações:</br> 
---> Nome</br> 
---> Data de Nascimento</br> 
---> E-mail</br> 
---> Genero </br> 
---> vizualização de Ativo ou não </br> 
---> Botão para Ativar/Desativar</br> 
---> Filtros</br> 
-
+O relatório de professores cadastros tem as seguintes informações:</br> 
 ![listaluno](https://github.com/itsmejunqueira/CadastroUsurario/blob/main/professorlista.JPG)
+
+Uma Bio sobre os professores. <br>
+![bio](https://github.com/itsmejunqueira/CadastroUsurario/blob/main/bioprof.JPG)
+
 Tecnologias utilizadas:</br> 
 --> Angular</br> 
 --> Angular Material </br> 
