@@ -10,9 +10,10 @@ O cadastro contém uma tela com os seguintes campos:</br>
 --> gênero </br> 
 --> Salvar </br> 
 
+![novoaluno](https://github.com/itsmejunqueira/CadastroUsurario/blob/main/cadastrodealunos.JPG)
+
 Relatório de Usuários Cadastrados</br> 
 Um relatório de usuários cadastros com as seguintes informações:</br> 
-
 --> Nome</br> 
 --> Data de Nascimento</br> 
 --> E-mail</br> 
@@ -21,6 +22,7 @@ Um relatório de usuários cadastros com as seguintes informações:</br>
 --> Botão para Ativar/Desativar</br> 
 --> Filtros</br> 
 
+![listaluno](https://github.com/itsmejunqueira/CadastroUsurario/blob/main/professorlista.JPG)
 Tecnologias utilizadas:</br> 
 --> Angular</br> 
 --> Angular Material </br> 
